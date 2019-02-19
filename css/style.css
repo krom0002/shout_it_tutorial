@@ -26,6 +26,7 @@ body {
   overflow: auto;
   width: 60%;
   min-height: 630px;
+  border: black solid 1px;
   border-radius: 15px;
 }
 
@@ -43,6 +44,7 @@ header h1 {
   height: 400px;
   margin: 20px auto;
   overflow: auto;
+  border: black solid 1px;
   border-radius: 15px;
 }
 
@@ -68,7 +70,7 @@ header h1 {
   width: 48%;
   padding: 3px;
   margin-bottom: 20px;
-  border: #666666 solid 1px;
+  border: black solid 1px;
   border-radius: 5px;
 }
 
@@ -77,6 +79,7 @@ header h1 {
   margin-bottom: 30px;
   width: 100%;
   margin: 10px auto;
+  border: black solid 1px;
   border-radius: 10px;
 }
 
